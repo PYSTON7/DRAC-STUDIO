@@ -30,11 +30,10 @@ It showcases portfolio work, services, and provides an easy way for clients to g
   Project Structure
 
 DRAC-STUDIO/
-│── index.html
-│── style.css
-│── script.js
-│── images/
-│── README.md
+index.html
+ style.css
+images/
+README.md
 
 
 
