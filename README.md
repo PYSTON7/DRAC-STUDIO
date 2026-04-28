@@ -1,10 +1,10 @@
-Pyston Photography Portfolio
+--Pyston Photography Portfolio--
 
 A modern and responsive photography website built using.
 It showcases portfolio work, services, and provides an easy way for clients to get in touch.
 
 
- Features
+-- Features --
 
   Fullscreen hero section with background image
   Clean navigation menu
@@ -17,7 +17,7 @@ It showcases portfolio work, services, and provides an easy way for clients to g
 
 
 
-  Technologies/Language Used
+ -- Technologies/Language Used--
 
  HTML
  CSS
@@ -27,7 +27,7 @@ It showcases portfolio work, services, and provides an easy way for clients to g
 
 
 
-  Project Structure
+ -- Project Structure--
 
 DRAC-STUDIO/
 index.html
@@ -38,14 +38,14 @@ README.md
 
 
 
- Author
+-- Author --
 
 Pyston Patrick
 Photographer & Developer
 
 
 
-License
+---License---
 
 MIT lisence
 
