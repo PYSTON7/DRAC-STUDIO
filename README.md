@@ -1,45 +1,29 @@
---Pyston Photography Readme--
+## Pyston Photography Readme
 
-#Author#
+# Author
 Pyston Patrick
 
-#Pyston Photography Description#
+# Pyston Photography Description#
 A modern and responsive photography website built using.
 It showcases portfolio work, services, and provides an easy way for clients to get in touch.
 
+# PROJECT SETUP INSTRUCTIONS
 Clone the repository:
 git clone https://github.com/PYSTON7/DRAC-STUDIO.git
-Navigate into the project folder:
-cd DRAC-STUDIO
-Open the project:
-
-Right-click → Open with browser
+Navigate into the project folder: cd DRAC-STUDIO
+Open the project: https://pyston7.github.io/DRAC-STUDIO/
 
 
--- Features --
-
- = Fullscreen hero section with background image
- = Clean navigation menu
- = Portfolio gallery
- = About section
- = Services overview
- = Client reviews
- = Contact form
- = Responsive design (mobile-friendly)
+# Project Structure 
+DRAC-STUDIO/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│── README.md
 
 
-
- -- Technologies/Language Used--
-
- HTML
- CSS
-
-
-
-
-
-
- -- Project Structure--
+# Project Structure
 
 DRAC-STUDIO/
 index.html
