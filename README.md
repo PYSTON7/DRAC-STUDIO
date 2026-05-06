@@ -31,15 +31,15 @@ index.html
 images/
 README.md
 
+# Copyright & License
+RIGHT RESERVERD.2026 Pyston Patrick
+
+# License
+This project is licensed under the MIT License.
 
 
 
 
 
-
-
----License---
-
-MIT lisence
 
 
