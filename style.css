@@ -342,3 +342,10 @@
     margin: 0 10px;
     text-decoration: none;
 }
+
+.favorites {
+    padding: 60px 50px;
+    font-size: larger;
+    text-align: default;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

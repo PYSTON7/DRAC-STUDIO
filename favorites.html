@@ -1,0 +1,54 @@
+<section class="favorites">
+    <h2>Favorite Pictures</h2>
+
+    <div class="favorites-gallery">
+
+        <a href="DRC_0869.jpg" target="event">
+            <img src="DRC_0869.jpg" alt="">
+        </a>
+
+        <a href="DRC_4175.jpg" target="studio-session">
+            <img src="DRC_4175.jpg" alt="">
+        </a>
+
+    </div>
+</section>
+
+<style>
+.favorites {
+    padding: 60px 20px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.favorites h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    color: #222;
+}
+
+.favorites-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* make links behave like images */
+.favorites-gallery a {
+    display: block;
+}
+
+.favorites-gallery img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: 0.3s ease;
+}
+
+.favorites-gallery img:hover {
+    transform: scale(1.05);
+}
+</style>
