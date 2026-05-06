@@ -3,7 +3,7 @@
 # Author
 Pyston Patrick
 
-# Pyston Photography Description#
+# Pyston Photography Description
 A modern and responsive photography website built using.
 It showcases portfolio work, services, and provides an easy way for clients to get in touch.
 
