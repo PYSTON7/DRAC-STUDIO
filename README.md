@@ -38,10 +38,7 @@ README.md
 
 
 
--- Author --
 
-Pyston Patrick
-Photographer & Developer
 
 
 
